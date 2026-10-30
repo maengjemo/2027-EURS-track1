@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+weights/.downloaded_by_repro_check
+weights/*.zip
+weights/teachers_seg/
+weights/teachers_restore/
+weights/LICENSE_DINOv3.md

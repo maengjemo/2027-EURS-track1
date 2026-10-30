@@ -1,0 +1,5 @@
+# Pinned extra packages (without torch). Used by the root Dockerfile (PyTorch 2.6.0 base).
+transformers==5.20.2
+numpy==2.4.6
+pillow==12.3.0
+pyyaml==6.0.1

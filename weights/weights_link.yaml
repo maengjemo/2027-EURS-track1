@@ -1,0 +1,4 @@
+# Track 1 weights (3.70 GB, one zip, unpacked into weights/ keeping its folders teachers_seg/ and teachers_restore/)
+url: https://drive.google.com/file/d/1xcXxajkVezwMypWVwugmxY8ilVd-1MHu/view?usp=sharing
+sha256: f0c296528cd9c93dde950a0a9a35b80b02e57d6351a0070b4711a50581571e0d
+filename: EURS_track1_19149_weights.zip
